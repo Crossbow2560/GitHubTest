@@ -46,6 +46,8 @@ class Game:
 
 game = Game()
 
+testvar = 0
+
 while True:
     game.start()
     val = game.repeat()
